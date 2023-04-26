@@ -5,6 +5,24 @@
 
 ## About Tungsten Carbide
 
+Project aiming to whitelabel and open-source a customer relationship management dashboard. 
+Task at hand first is to bring up the most recent project to a fully working state.
+Upon completion, add functionality to write models, routes, and controllers from an WYSIWYG panel. 
+
+###
+Checklist of tasks to migrate from Laravel 5.x.x to 10.x
+- [x] DB Migrations
+- [x] DB Seeders
+- [ ] DB Factories
+- [ ] Contracts
+- [ ] Models
+- [ ] Routes
+- [ ] Events
+- [ ] Listeners
+- [ ] Controllers
+- [ ] Transformers
+- [ ] Controllers > API
+## About Laravel
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
